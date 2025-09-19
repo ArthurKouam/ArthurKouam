@@ -21,7 +21,7 @@ Je suis **étudiant ingénieur logiciel**, passionné par la création d’expé
 
 ---
 
-## 🤝 Open source, learning new things, building impactful productsCe qui me motive
+## 🤝 Ce qui me motive
 
 - Open source & partage de connaissances
 - Apprendre en continu et sortir de ma zone de confort
