@@ -1,2 +1,53 @@
+# 👋 Salut, moi c'est Arthur Kouam!
+
+
+## 🚀 À propos de moi
+
+Je suis **étudiant ingénieur logiciel**, passionné par la création d’expériences numériques immersives et l’apprentissage continu. J’aime explorer de nouvelles technologies, contribuer à l’open source, et construire des produits qui ont un impact réel.
+
+---
+
+## 🛠️ Compétences principales
+
+- **Langages & Frameworks :**  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+
+- **Front-end :**  
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
+
+- **Back-end :**  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+
+---
+
+## 🤝 Open source, learning new things, building impactful productsCe qui me motive
+
+- Open source & partage de connaissances
+- Apprendre en continu et sortir de ma zone de confort
+- Créer des applications qui facilitent la vie des gens
+
+---
+
+## ⚽ Fun Facts
+
+- Je suis un passionné de **football** (côté terrain, manette et discussions !)
+- Amateur de **jeux vidéo** et d’expériences immersives
+
+---
+
+## 🌐 Où me trouver ?
+
+- [arthurkouam.fr](https://arthurkouam.fr)
+- [YouTube](https://www.youtube.com/channel/UCNMIuoYie6D1EUtVPRqBPXg)
+- [Twitter/X](https://x.com/kouamjs)
+
+---
+
+> *"Le code, c’est comme le football : il faut de la stratégie, de l’imagination… et toujours garder l’esprit d’équipe !"*
+
+---
+
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurKouam&show_icons=true&theme=vue-dark)
+
 [![wakatime](https://wakatime.com/badge/user/3b7d2a50-bc8e-4006-927a-21c5e63ddf9e.svg)](https://wakatime.com/@3b7d2a50-bc8e-4006-927a-21c5e63ddf9e)
-[](https://komarev.com/ghpvc/?username=ArthurKouam&style=flat-square)
