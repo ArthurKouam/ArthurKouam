@@ -44,10 +44,6 @@ Je suis **étudiant ingénieur logiciel**, passionné par la création d’expé
 
 ---
 
-> *"Le code, c’est comme le football : il faut de la stratégie, de l’imagination… et toujours garder l’esprit d’équipe !"*
-
----
-
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurKouam&show_icons=true&theme=vue-dark)
 
 [![wakatime](https://wakatime.com/badge/user/3b7d2a50-bc8e-4006-927a-21c5e63ddf9e.svg)](https://wakatime.com/@3b7d2a50-bc8e-4006-927a-21c5e63ddf9e)
