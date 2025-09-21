@@ -29,13 +29,6 @@ Je suis **étudiant ingénieur logiciel**, passionné par la création d’expé
 
 ---
 
-## ⚽ Fun Facts
-
-- Je suis un passionné de **football** (côté terrain, manette et discussions !)
-- Amateur de **jeux vidéo** et d’expériences immersives
-
----
-
 ## 🌐 Où me trouver ?
 
 - [arthurkouam.fr](https://arthurkouam.fr)
