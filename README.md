@@ -32,11 +32,9 @@ Je suis **étudiant ingénieur logiciel**, passionné par la création d’expé
 ## 🌐 Où me trouver ?
 
 - [arthurkouam.fr](https://arthurkouam.fr)
-- [YouTube](https://www.youtube.com/channel/UCNMIuoYie6D1EUtVPRqBPXg)
 - [Twitter/X](https://x.com/kouamjs)
 
 ---
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurKouam&show_icons=true&theme=vue-dark)
 
-[![wakatime](https://wakatime.com/badge/user/3b7d2a50-bc8e-4006-927a-21c5e63ddf9e.svg)](https://wakatime.com/@3b7d2a50-bc8e-4006-927a-21c5e63ddf9e)
